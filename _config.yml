@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Philipp Wesner
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: pwesner@innomind.de
+description: "Blog about Ruby on Rails developemnt, Entrepreneurship and Math"
 # baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+url: "http://wasi.github.io"
+twitter_username: philippwesner
+github_username:  wasi
+facebook_username:  philipp.wesner.9
 
 # Build settings
 markdown: kramdown
